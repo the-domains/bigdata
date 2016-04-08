@@ -1,0 +1,28 @@
+name: bigdata
+favicon: null
+layout_spectrum: 0.44103325018659234
+typography_spectrum: 0.8559280782938004
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4763653522823006
+  lightness: 0.0808485671877861
+  saturation: 0.6954601041506976
+  rhythmicContrast: 0.9826609855517745
+purpose: []
